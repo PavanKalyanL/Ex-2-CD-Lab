@@ -35,10 +35,6 @@
 
 # PROGRAM
 ```
-NAME: KEERTHANA JAYASRI SK
-REG NO: 212222110019
-```
-```
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
